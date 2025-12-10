@@ -1,9 +1,8 @@
 .DS_Store
 *.gz
 *.zip
+*.tsv
 
 dev/
 data/
 variantAnnotations/
-
-var_drug_ann.tsv
